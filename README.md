@@ -11,3 +11,6 @@ Is Spring MVC on the classpath? There are several specific beans you almost alwa
 
 Is Jetty on the classpath? If so, you probably do NOT want Tomcat but instead want embedded Jetty. Spring Boot handles that for you.
 
+Spring boot actuator:
+https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html
+
