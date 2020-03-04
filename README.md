@@ -14,3 +14,9 @@ Is Jetty on the classpath? If so, you probably do NOT want Tomcat but instead wa
 Spring boot actuator:
 https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html
 
+Spring boot rest + swagger 
+https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+https://dzone.com/articles/spring-boot-2-restful-api-documentation-with-swagg
+After server is up: Hit following urls
+http://localhost:8081/swagger-ui.html
+http://localhost:8081/v2/api-docs
