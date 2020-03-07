@@ -23,3 +23,6 @@ http://localhost:8081/v2/api-docs
 
 Api gateway + eureka server
 https://javabeginnerstutorial.com/spring-boot/spring-boot-2-microservices-with-netflix-zuul-api-gateway/
+
+Spring boot video
+https://www.youtube.com/watch?v=PhG5p_yv0zs
